@@ -1,6 +1,6 @@
-# terraform-aws-template
+# Create a CI/CD pipeline to validate Terraform configurations by using AWS CodePipeline
 
-A template repository for Terraform project for AWS infrastructure.
+This AWS pattern show how to test Terraform configurations using a CI/CD pipeline deployed with AWS CodePipeline.
 
 ## Architecture (optional)
 
@@ -33,6 +33,8 @@ A template repository for Terraform project for AWS infrastructure.
 ---
 
 ## References (optional)
+
+- [Create a CI/CD pipeline to validate Terraform configurations by using AWS CodePipeline](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/create-a-ci-cd-pipeline-to-validate-terraform-configurations-by-using-aws-codepipeline.html?did=pg_card&trk=pg_card)
 
 <TODO: List all references that you use to develop this Terraform project.>
 
